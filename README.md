@@ -1,2 +1,1 @@
-# gobarber_node
-api rest
+# gobarber_api
